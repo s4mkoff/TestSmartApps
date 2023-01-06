@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestSmartApps</string>
+    <string name="player_dice_score">Your dice score: %s</string>
+    <string name="player_score">Your score: %s</string>
+    <string name="ai_dice_score">Ai dice score: %s</string>
+    <string name="ai_score">Ai score: %s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="player_win">You win! :)</string>
+    <string name="ai_win">Ai win! :(</string>
+    <string name="even">Even!</string>
+    <string name="reroll">Reroll</string>
+    <string name="save">Save</string>
+    <string name="start">Start</string>
+    <string name="next_round">Next round</string>
+    <string name="game_finished">Game finished!</string>
+</resources>
